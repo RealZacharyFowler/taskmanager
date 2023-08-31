@@ -7,6 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "todo": "index.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -20,3 +23,4 @@
     "ora": "^7.0.1"
   }
 }
+
