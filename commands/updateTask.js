@@ -76,3 +76,6 @@ export default async function updateTask(){
         process.exit(1)
     }
 }
+
+// use todo update in terminal to use command
+
