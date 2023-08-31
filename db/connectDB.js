@@ -26,5 +26,7 @@ export async function disconnectDB(){
     }
 }
 
-connectDB()
-disconnectDB()
+// for future reference after setting up database connection run the code below to see in the terminal if it
+// connects or not!!!
+// connectDB()
+// disconnectDB()
